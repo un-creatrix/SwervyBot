@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Swervy Bot
+message: 'If you use this software, please cite it as noted & referenced below.'
+type: software
+authors:
+  - given-names: Caroline
+    family-names: Pickett
+    email: Caroline@Creatrix.dev
+  - name: un-Creatrix
+    website: 'https://Creatrix.dev'
+repository-code: 'https://github.com/un-creatrix/SwervyBot'
+url: 'https://creatrix.dev/SwervyBot'
+abstract: >-
+  A swerve drive robot utilizing the MK4i by Swerve Drive
+  Specialties; The brains of the robot being ROS2 running on
+  Dual Raspberry PI 3's. The end goal of this project is to
+  serve the learning and advancement of robotics students in
+  a fun and advanced way!
+license: MPL-2.0
+commit: Alpha
+version: 1.0.0
+date-released: '2025-01-01'
+license-url: "https://github.com/un-creatrix/SwervyBot/blob/main/LICENSE"
