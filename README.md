@@ -23,6 +23,7 @@
 ## Technologies at Use
 `Linked in below is the decumentation associated with each piece of software, code, & OS used`
 - Robotics Operating System v2 [Iron Irwini](https://docs.ros.org/en/iron/Installation.html)
-- MicroROS []()
+- MicroROS [Arduino RP2040](https://micro.ros.org)
 - Ubuntu Desktop [22.04]()
 - Ubuntu Server [22.04]()
+- Unifi [Unifi Network Appliance by linuxserver](https://github.com/linuxserver/docker-unifi-network-application)
